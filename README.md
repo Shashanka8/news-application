@@ -2,14 +2,6 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-## Project overview
-
-![News Application](/screenshots/introduction.PNG?raw=true)
-
-From different angles
-
-![News Application full overview](/screenshots/overview.PNG?raw=true)
-
 ## Acquiring Free API Key
 
 Next step is getting a free API key at [News API](https://newsapi.org/) witch will help us make some call requests to the server and retrieve the news articles. 
